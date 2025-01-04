@@ -73,10 +73,6 @@ The dataset comprises various metrics related to hotel bookings. The features of
 
 ## 🚀 Instructions for Local Execution
 1. **Clone this Repository**: Begin by cloning this repository to your local setup.
-2. **Open the Notebook**: Access the `Hotel_Booking_Cancellation_Prediction.ipynb` in Jupyter.
+2. **Open the Notebook**: Access the `cancel_booking.ipynb` in Jupyter.
 3. **Install Dependencies**: Ensure all necessary Python libraries are installed for seamless execution.
 4. **Execution**: Run all cells in the notebook to witness the results and insights.
-
-## 🔗 Additional Resources
-- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook [here](https://www.kaggle.com/code/farzadnekouei/hotel-booking-cancellation-prediction).
-- 🤝 **Connect on LinkedIn**: Have queries or looking for collaborations? Feel free to connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
