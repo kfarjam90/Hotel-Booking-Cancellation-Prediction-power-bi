@@ -1,5 +1,5 @@
 # 🏨 Hotel Booking Cancellation Prediction and Analysis
-![Hotel Booking Cancellation Prediction](image.jpg)
+![Hotel_Booking_Cancellation_Prediction](https://github.com/user-attachments/assets/8deb83cf-786d-4446-b456-34a38900ef02)
 
 ## 🌐 Overview
 This repository contains a project focused on predicting hotel booking cancellations. The dataset includes a variety of features related to hotel bookings, such as lead time, deposit type, and special requests. The primary objective is to develop a predictive model that accurately determines whether a hotel booking would be canceled. This prediction is essential for hotels as cancellations can significantly impact revenue and operational planning.
