@@ -10,17 +10,21 @@ In this project, we aim to build a predictive model to determine whether a hotel
 ## 🎯 Objectives
 The objectives of the project are as follows:
 
-* **Explore the Dataset**: Investigate the dataset's basic information, including summary statistics for numerical and categorical variables.
+* **Explore the Dataset**: Investigate the dataset's basic information, including summary statistics for numerical and categorical variables. Use Power BI for exploratory data analysis and visualizing key trends, distributions, and relationships within the data..
 * **Preprocessing Steps**:
   - Select and engineer features to enhance predictive performance.
   - Handle missing values effectively.
   - Address noise in the data to improve model robustness.
   - Encode categorical variables for use in machine learning models.
+  - Leverage Power BI to create interactive visualizations for monitoring the preprocessing steps and ensuring data quality.
 * **Model Building**:
   - Implement and fine-tune classification models, including Decision Trees, Random Forest, and XGBoost.
   - Emphasize achieving high F1-score for class 1 predictions to comprehensively identify booking cancellations.
 * **Evaluate and Compare Model Performance**: Utilize accuracy, precision, recall, F1-score, and AUC to gauge models' effectiveness.
-* **Analyze Feature Importance**: Understand which features have the most significant impact on model predictions and interpret their relevance in the context of hotel booking cancellations.
+* **Analyze Feature Importance**:
+  - Understand which features have the most significant impact on model predictions and interpret their relevance in the context of hotel booking cancellations.
+  - Use Power BI to create feature importance charts and interpret findings interactively.
+  
 
 ## 📚 Dataset Description
 The dataset comprises various metrics related to hotel bookings. The features of the dataset are described in the table below:
